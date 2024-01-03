@@ -31,12 +31,12 @@ The model.py include main model structure.
 ## Reference
 If you find this code helpful, please kindly cite:
 
-@ARTICLE{10298274,
-  author={Dong, Wenqian and Yang, Yihan and Qu, Jiahui and Li, Yunsong and Yang, Yufei and Jia, Xiuping},
-  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
-  title={Feature Pyramid Fusion Network for Hyperspectral Pansharpening}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-13},
-  doi={10.1109/TNNLS.2023.3325887}}
+@ARTICLE{10298274,  
+  &emsp;author={Dong, Wenqian and Yang, Yihan and Qu, Jiahui and Li, Yunsong and Yang, Yufei and Jia, Xiuping},  
+  &emsp;journal={IEEE Transactions on Neural Networks and Learning Systems},  
+  &emsp;title={Feature Pyramid Fusion Network for Hyperspectral Pansharpening},  
+  &emsp;year={2023},  
+  &emsp;volume={},  
+  &emsp;number={},  
+  &emsp;pages={1-13},  
+  &emsp;doi={10.1109/TNNLS.2023.3325887}}
