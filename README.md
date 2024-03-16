@@ -1,5 +1,5 @@
 ## FPFNet
-The python code implementation of the paper "Feature Pyramid Fusion Network for Hyperspectral Pansharpening"
+The python code implementation of the paper "Feature Pyramid Fusion Network for Hyperspectral Pansharpening" (IEEE Transactions on Neural Networks and Learning Systems 2023)
 ![image](https://github.com/Jiahuiqu/FPFNet/assets/78287811/f8a138d1-53b4-4ffc-895f-b189b620c5dc)
 
 
